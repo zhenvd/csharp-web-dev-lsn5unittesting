@@ -1,5 +1,4 @@
-﻿using System;
-namespace CarNS
+﻿namespace CarNS
 {
     public class Car
     {
